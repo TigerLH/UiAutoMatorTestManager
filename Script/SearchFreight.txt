@@ -1,0 +1,16 @@
+{"unique":"ID","action":"ClickById","params":{"resourceId":"com.wlqq:id/find_freight_btn"}}
+{"unique":"ID","action":"ClickById","params":{"resourceId":"com.wlqq:id/startsBtn"}}
+{"unique":"TEXT","action":"ClickByText","params":{"text":"安徽"}}
+{"unique":"TEXT","action":"ClickByText","params":{"text":"滁州"}}
+{"unique":"TEXT","action":"ClickByText","params":{"text":"定远"}}
+{"unique":"ID","action":"ClickById","params":{"resourceId":"com.wlqq:id/arriveBtn"}}
+{"unique":"TEXT","action":"ClickByText","params":{"text":"江苏"}}
+{"unique":"TEXT","action":"ClickByText","params":{"text":"宿迁"}}
+{"unique":"TEXT","action":"ClickByText","params":{"text":"泗洪"}}
+{"unique":"TEXT","action":"ClickByText","params":{"text":"扬州"}}
+{"unique":"ID","action":"ClickById","params":{"resourceId":"com.wlqq:id/other_condition_btn"}}
+{"unique":"TEXT","action":"ClickByText","params":{"text":"13.5米"}}
+{"unique":"TEXT","action":"ClickByText","params":{"text":"二拖三"}}
+{"unique":"ID","action":"ClickById","params":{"resourceId":"com.wlqq:id/freight_condition_finish_button"}}
+
+

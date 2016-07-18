@@ -1,0 +1,11 @@
+{"unique":"ID","action":"ClickById","params":{"resourceId":"com.hcb.driver:id/startsBtn"}}
+{"unique":"TEXT","action":"ClickByText","params":{"text":"四川"}}
+{"unique":"TEXT","action":"ClickByText","params":{"text":"自贡"}}
+{"unique":"TEXT","action":"ClickByText","params":{"text":"荣县"}}
+{"unique":"ID","action":"ClickById","params":{"resourceId":"com.hcb.driver:id/arriveBtn"}}
+{"unique":"TEXT","action":"ClickByText","params":{"text":"河南"}}
+{"unique":"TEXT","action":"ClickByText","params":{"text":"鹤壁"}}
+{"unique":"TEXT","action":"ClickByText","params":{"text":"鹤壁"}}
+{"unique":"ID","action":"ClickById","params":{"resourceId":"com.hcb.driver:id/condition_complete"}}
+{"unique":"ID","action":"ClickById","params":{"resourceId":"com.hcb.driver:id/freight_subscribe_btn"}}
+
